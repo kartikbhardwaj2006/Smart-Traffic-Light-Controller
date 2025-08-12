@@ -1,9 +1,9 @@
-Smart Traffic Light Controller 🚦
+<h1> Smart Traffic Light Controller 🚦<h1>
 A Python-based simulation project that manages traffic signals dynamically based on real-time traffic density inputs.
-
+<br>
 💡 Project Overview
 This project simulates an intelligent traffic management system using Python. The system:
-
+<br>
 Accepts traffic density input from users for each direction (North, East, South, West).
 Adjusts the traffic light cycle (Green, Yellow, Red) dynamically based on vehicle count.
 Runs infinitely to simulate real-world signal control.
